@@ -30,7 +30,7 @@ streamlit run app.py
 
 The app is deployed using [Streamlit Cloud](https://streamlit.io/cloud). Click below to try it live:
 
-[**Live App**](https://your-streamlit-app-url.streamlit.app) ← Replace this with actual link after deploying
+[**Live App**]https://heartpredictor-uzfbdt3m47ugpwiwcaappc.streamlit.app/
 
 ## Disclaimer
 
@@ -40,4 +40,4 @@ This app is a machine learning demonstration and **not a medical diagnostic tool
 
 Created with ❤️ by [Kapil singh]  
 Email: Kapilsingh8356@gmail.com 
- [LinkedIn](https://www.linkedin.com/in/your-profile)
+ [LinkedIn](https://www.linkedin.com/in/kapil-singh-036850375/)
